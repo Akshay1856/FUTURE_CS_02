@@ -114,8 +114,6 @@ Used to:
 ❌ Do not ignore sender mismatches  
 ❌ Do not forward suspicious emails
 
----
-
 ## 📢 Key Awareness Message
 
 > **If an email claims to be from GitHub but is not sent from `@github.com`, it is a phishing attempt.**
