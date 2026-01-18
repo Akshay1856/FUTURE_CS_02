@@ -24,8 +24,6 @@ The goal of this analysis is to:
 ✔ No attachments opened  
 ✔ No interaction with attacker infrastructure  
 
-> This analysis follows **responsible security awareness practices**.
-
 ---
 
 ## 🛠️ Tools Used
@@ -56,8 +54,6 @@ Used to:
 ---
 
 ## 🔍 Analysis Approach
-
-This assessment follows a **SOC-style email triage process**:
 
 1. **Sender Validation**
    - Compare the displayed sender name vs actual domain
@@ -100,7 +96,7 @@ This assessment follows a **SOC-style email triage process**:
 
 **Reasoning:**
 - Email impersonates GitHub
-- GitHub does not own Sender domain
+- GitHub does not own the sender domain
 - Contains hidden verification links
 - Attempts to harvest user credentials
 
