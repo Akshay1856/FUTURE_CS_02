@@ -96,8 +96,6 @@ Used to:
 4. User is redirected to a fake GitHub login page  
 5. Credentials are stolen  
 
----
-
 ## 🛡️ Prevention & Awareness Guidelines
 
 ### ✅ Do’s for Users & Employees
