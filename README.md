@@ -13,8 +13,6 @@ The goal of this analysis is to:
 - Explain attacks in **simple, non-technical language**
 - Provide **clear prevention and awareness guidelines** for users and employees
 
----
-
 ## 🧭 Scope & Ethics
 
 ✔ Publicly visible email content only  
