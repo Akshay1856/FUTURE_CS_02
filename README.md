@@ -3,8 +3,6 @@
 This repository documents a phishing email analysis based on two user-reported email screenshots that impersonate GitHub.  
 The objective is to demonstrate **ethical email threat analysis**, phishing detection, and user awareness — **not hacking**.
 
----
-
 ## 🎯 Objective
 
 The goal of this analysis is to:
