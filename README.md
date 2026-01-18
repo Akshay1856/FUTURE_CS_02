@@ -67,8 +67,6 @@ Used to:
 5. **Risk Classification**
    - Categorise email as Safe, Suspicious, or Phishing
 
----
-
 ## 📊 Key Findings Summary
 
 | Indicator | Observation |
