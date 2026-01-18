@@ -127,8 +127,6 @@ This case study highlights how phishing emails are used:
 
 Basic inspection of sender domains and cautious user behaviour can prevent most phishing attacks.
 
----
-
 ## ⚖️ Disclaimer
 
 This repository is for **educational and awareness purposes only**.  
