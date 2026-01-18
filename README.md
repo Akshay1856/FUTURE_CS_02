@@ -106,8 +106,6 @@ Used to:
 ✔ Report suspicious emails to security teams  
 ✔ Enable multi-factor authentication (MFA)
 
----
-
 ### ❌ Don’ts for Users & Employees
 
 ❌ Do not trust logos or branding alone  
