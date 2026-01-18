@@ -88,8 +88,6 @@ Used to:
 - Contains hidden verification links
 - Attempts to harvest user credentials
 
----
-
 ## 🧠 How the Attack Works (Simple Explanation)
 
 1. User receives an email that looks like GitHub  
