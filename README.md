@@ -78,8 +78,6 @@ Used to:
 | Hidden verification links | ✔ |
 | Account urgency pressure | ✔ |
 
----
-
 ## 🚨 Email Risk Classification
 
 **Final Verdict:** 🔴 **PHISHING**
