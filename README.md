@@ -20,8 +20,6 @@ The goal of this analysis is to:
 ✔ No attachments opened  
 ✔ No interaction with attacker infrastructure  
 
----
-
 ## 🛠️ Tools Used
 
 ### 1️⃣ Email Client Interface (Gmail UI)
