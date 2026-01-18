@@ -45,8 +45,6 @@ Used to:
 - Hover inspection of buttons and links
 - No clicking or redirection performed
 
----
-
 ## 🔍 Analysis Approach
 
 1. **Sender Validation**
